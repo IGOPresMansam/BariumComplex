@@ -10,7 +10,7 @@ Or checklist lists to
 
 - [ ] ==Get==
 - [ ] things
-- [ ] ~~done~~
+- [x] ~~done~~
 
 Also, get highlights and strikethroughs as above (similar to Obsidian).
 
