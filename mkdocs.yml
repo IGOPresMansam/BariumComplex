@@ -7,6 +7,7 @@ theme:
     - navigation.instant
     - navigation.path
     - navigation.sections
+    - toc.integrate
     palette:
     # Light mode
     - media: "(prefers-color-scheme: light)"
