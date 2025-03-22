@@ -3,11 +3,11 @@ site_url: https://igopresmansam.github.io/BariumComplex/
 
 theme:
     name: 'material'
-    palette:
     features:
     - navigation.instant
     - navigation.path
     - navigation.sections
+    palette:
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
