@@ -1,5 +1,5 @@
 # Barium Complex
->postcapitalist hellspace
+`mech combat, war crimes, depersonalization, and relationship drama in post-capitalist hell-space`
 
 
 
